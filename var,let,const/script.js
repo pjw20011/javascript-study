@@ -30,4 +30,3 @@ function func2(){
  // 오류   console.log(w);
 }
 
-func2();
