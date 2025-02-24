@@ -24,4 +24,5 @@ while(i<10){
 do {
     console.log('Number '+ i);
     i++;
-} while(i <10)
+} while(i <10);
+

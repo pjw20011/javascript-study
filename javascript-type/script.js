@@ -20,7 +20,7 @@ const sym = Symbol();
 
 //참조타입
 // Array 배열
-const hobbies = ['walking', 'books'];
+const hobbies = ['walking', 'books', 'soccer'];
 // Object 객체
 const address = {
     province:'경기도',
