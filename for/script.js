@@ -7,7 +7,7 @@ for(let i=0; i<5; i++) {
 const user = {
     name: 'Han',
     province: '경기도',
-    city: '성남'
+    city: '안양'
 }
 
 for (let x in user) {
